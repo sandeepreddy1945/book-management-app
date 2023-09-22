@@ -1,2 +1,2 @@
 # book-management-app
-The Backend Code Repository for managing the Book Keeping Records
+A stand alone application for General College book and Catalogue Management System
